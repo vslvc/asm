@@ -108,7 +108,7 @@ $Y = (9A^2 - 3B^2 + A dot C) / C^2$
 
 Алгоритм: Ввод данных через scanf, умножение через mul, деление через div (с обнулением rdx).
 
-Ссылка на репозиторий: #link("https://github.com/Dill3r/Assembler")
+Ссылка на репозиторий: #link("https://github.com/vslvc/asm")
 = Исходный код программы
 ```
 .global main
